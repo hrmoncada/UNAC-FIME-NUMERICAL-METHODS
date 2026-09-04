@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: LAB_?_Solution_Apellidos_Nombres.aux
+The style file: plain.bst
+Database file #1: References/myBibliography.bib
+You're missing a field name---line 203 of file References/myBibliography.bib
+ :  note = {2017-08-01},
+ :                      ,
+I'm skipping whatever remains of this entry
+You've used 7 entries,
+            2118 wiz_defined-function locations,
+            537 strings with 5135 characters,
+and the built_in function-call counts, 2186 in all, are:
+= -- 206
+> -- 121
+< -- 1
++ -- 48
+- -- 40
+* -- 140
+:= -- 386
+add.period$ -- 26
+call.type$ -- 7
+change.case$ -- 41
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 89
+empty$ -- 164
+format.name$ -- 40
+if$ -- 458
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 12
+newline$ -- 43
+num.names$ -- 14
+pop$ -- 47
+preamble$ -- 1
+purify$ -- 34
+quote$ -- 0
+skip$ -- 53
+stack$ -- 0
+substring$ -- 51
+swap$ -- 13
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 18
+warning$ -- 0
+while$ -- 16
+width$ -- 8
+write$ -- 94
+(There was 1 error message)
