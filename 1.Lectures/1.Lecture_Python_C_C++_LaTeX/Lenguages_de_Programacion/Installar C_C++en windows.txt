@@ -1,0 +1,34 @@
+1. Abrir la siguiente pagina web(Open la the following webpage)
+https://www.msys2.org/
+
+2. baja el siguiente instador (Download the installer):
+
+msys2-x86_64-20260611.exe
+
+3. Abrir msys2-x86_64-20260611.exe (open msys2-x86_64-20260611.exe)
+
+PARA C:
+	CIBER@DESKTOP-8EM67IJ UCRT64 ~
+	$ pacman -S mingw-w64-ucrt-x86_64-gcc mingw-w64-ucrt-x86_64-gdb
+
+	Escribir: "Y" y darle ENTER
+
+PARA C++
+	CIBER@DESKTOP-8EM67IJ UCRT64 ~
+	$ pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
+
+	Escribir: "Y" y darle ENTER
+
+
+4. Buscar en windows (search in windows):
+ 
+1. (escribir) propiedades del sistema (open)
+2. variable de entorno (click)
+3. path (click)
+4. Editar
+
+		pegar Para C:
+		C:\msys64\mingw64\bin
+
+		pegar, Para C++:
+		C:\msys64\ucrt64\bin
